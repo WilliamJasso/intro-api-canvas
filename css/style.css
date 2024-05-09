@@ -1,0 +1,5 @@
+.canvas-item {
+    max-width: calc(100% - 20px); /* Ancho máximo igual al contenedor menos el espacio de los márgenes */
+    max-height: 150px; /* Altura máxima opcional */
+    width: auto; /* Permitir que el ancho se ajuste automáticamente */
+}
